@@ -1,5 +1,5 @@
 {
-"spider":"https://github.com/zwdiqi/GoogleTranslateIpCheck/blob/master/fan.txt;md5;800d19942365f5754f20c532cffd2242",
+"spider":"/blob/master/fan.txt;md5;800d19942365f5754f20c532cffd2242",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"豆豆","name":"🌕公众号【神秘的哥哥们】","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
